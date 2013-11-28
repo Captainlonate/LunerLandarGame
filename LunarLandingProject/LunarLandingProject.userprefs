@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DJ.js">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.js" Line="23" Column="19" />
+      <File FileName="Assets\Scripts\MainMenuGUI.js" Line="17" Column="27" />
+      <File FileName="Assets\Scripts\InGameGUI.js" Line="175" Column="21" />
+      <File FileName="Assets\Scripts\LandingPad.js" Line="27" Column="23" />
+      <File FileName="Assets\Scripts\GameInfo.js" Line="13" Column="4" />
+      <File FileName="Assets\Scripts\DJ.js" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
